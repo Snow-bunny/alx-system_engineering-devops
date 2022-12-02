@@ -1,1 +1,1 @@
-task 10-mirror_permissions
+task 11-directories_permissions
