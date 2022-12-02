@@ -1,1 +1,1 @@
-task 6. Multiple permissions
+task 7-everybody
