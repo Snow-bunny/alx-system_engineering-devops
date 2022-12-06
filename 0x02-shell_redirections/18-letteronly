@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep ^[[:alpha:]] /ect/ssh/sshd_config
+egrep "^[a-z]" /ect/ssh/sshd_config
